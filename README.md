@@ -1,16 +1,19 @@
-## Hi there 👋
+### Olá! Eu sou ju816492 👋
 
-<!--
-**ju816492/ju816492** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🚀 **Estudante de Programação Full Stack e Inteligência Artificial (IA)**, com foco em desenvolvimento de software e criatividade digital. Atualmente, estou me aprofundando em tecnologias modernas na **Infinity School**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💡 O que estou aprendendo na Infinity School:
+
+* **Desenvolvimento Full Stack e IA:** Programação Front-end, Back-end, Bases de Dados e Fundamentos de Inteligência Artificial.
+* **Visual Art Creative Center:** Habilidades em **Arte Visual** e **Design Criativo**, essenciais para a interface do usuário (UI) e a experiência do usuário (UX).
+
+#### 🎯 Meus objetivos:
+
+* Colaborar em projetos que unam tecnologia e criatividade.
+* Construir um portfólio de projetos Full Stack e com IA.
+
+---
+
+[💬 Entre em Contato! Adicione aqui seu LinkedIn ou Email se desejar.]
